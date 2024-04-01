@@ -17,7 +17,7 @@ I got the dataset of billionaires listed in Forbes from Kaggle
 I used Microsoft Excel to clean up and transform the data and used the Pivot tables for the dashboard
 
 ------
-# Findings and Recommendations
+# Findings
 Here are a few of my findings:
 1. The United States has the highest number of Billionaires, followed by China
 2. The top 4 industries industry with the highest billionaires are Telecommunication, Media, Automotive and Fashion.
